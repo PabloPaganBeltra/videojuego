@@ -1,7 +1,7 @@
 package net.instituto.desa;
 
 public class Jugador {
-	int y, x;
+	int y,  x;
 
 	public int getY() {
 		return y;
@@ -19,4 +19,4 @@ public class Jugador {
 		this.x = x;
 	}
 
-}
+} 
